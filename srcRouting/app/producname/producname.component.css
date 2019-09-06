@@ -1,0 +1,13 @@
+p{
+    background-color: royalblue;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+a{
+    text-decoration: none;
+    color:red;
+}
